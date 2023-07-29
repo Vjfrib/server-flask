@@ -6,3 +6,4 @@ Abrir um FLask com HTML. E claro, em contrapartida ao express.
 ---
 Resumir as aulas da Hashtag Treinamentos.
 
+(no obs)
